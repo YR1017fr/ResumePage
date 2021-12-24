@@ -1,0 +1,26 @@
+.navigation-frame{
+    position: fixed;
+    top: 0;
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color:rgb(20,20,20);
+    padding-left: 45%;
+    color: white;
+    z-index: 10;
+}
+.navigation-name{
+    font-size: 28px;
+}
+.navigation-github{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.navigation-github:visited{
+    color: #00A1D6;
+    
+}
+.navigation-mail{
+    margin-top: 0;
+}
